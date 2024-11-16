@@ -1,6 +1,5 @@
 package Javacourse;
 
-import java.sql.SQLOutput;
 import java.util.*;
 
 public class Rock_paper {
